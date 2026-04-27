@@ -1,0 +1,15 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+python-dotenv==1.0.1
+openai-whisper
+yt-dlp
+langchain
+langchain-google-genai
+langchain-pinecone
+langchain-community
+pinecone-client
+tiktoken
+python-multipart
+pydantic
+ffmpeg-python
+setuptools
